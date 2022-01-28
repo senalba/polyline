@@ -4,7 +4,7 @@ from polylines import Polyline, Knot
 from vector import Vec2d
 
 
-SCREEN_DIM = (800, 600)
+SCREEN_DIM = (805, 600)
 
 
 
